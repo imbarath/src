@@ -1,0 +1,66 @@
+.button{
+  margin-left:20px; 
+  position: relative;
+  background-color: rgb(134, 134, 134);
+  color: white;
+  margin-top: 2px;
+  position: absolute;
+  
+}
+myhead{
+  margin-bottom: 50px;
+
+}
+.gmap{
+  height: '400px'; 
+  width: '200px'; 
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.App {
+  text-align: center;
+}
+.input{
+  width: 700px;
+  height: 30px;
+  margin-top: 12px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.col{
+  position: absolute;
+  font-style: normal;
+  font-weight: bold;
+
+}
+
+.column-1{
+  margin-left:-13px;
+  margin-top: 67px; 
+  left: 200px;
+  
+}
+.column-2{
+  margin-left:120px;
+  margin-top: 72px; 
+  left:450px;
+  top: -10px;
+
+}
+.column-3{
+  margin-left:320px;
+  margin-top: 72px; 
+  left: 550px;
+  top: -10px;
+
+}
+.column-4{
+  margin-left:500px;
+  margin-top: 72px; 
+  left: 650px;
+  top: -10px;
+}
+
+
